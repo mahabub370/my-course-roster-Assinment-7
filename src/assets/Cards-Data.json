@@ -1,0 +1,167 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "image": "/public/Asset/Rectangle 2-1.png",
+        "title": "Introduction to C Programming",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 19.50,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 3,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 2,
+        "image": "/public/Asset/Rectangle 2-2.png",
+        "title": "Introduction to Algorithms",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 29.99,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 5,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 3,
+        "image": "/public/Asset/Rectangle 2-3.png",
+        "title": "Introduction to C++ for DSA",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 19.30,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 8,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 4,
+        "image": "/public/Asset/Rectangle 2-4.png",
+        "title": "Basic Data Structures",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 29.40,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 1,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 5,
+        "image": "/public/Asset/Rectangle 2-5.png",
+        "title": "Introduction to OOP Python",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 9.99,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 4,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 6,
+        "image": "/public/Asset/Rectangle 2-6.png",
+        "title": "Software Engineering",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 99.99,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 1,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 7,
+        "image": "/public/Asset/Rectangle 2.png",
+        "title": "AWS, Cloud Computing",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 49.80,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 0,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 8,
+        "image": "/public/Asset/Rectangle 3-1.png",
+        "title": "Database (MySQL)",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 19.69,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 2.5,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      },
+      {
+        "id": 9,
+        "image": "/public/Asset/Rectangle 3.png",
+        "title": "Problem-Solving Part",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": {
+          "value1": 39.89,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "credit_hours": {
+          "value2": 6,
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        "button": {
+          "label": "Select",
+          "link": "https://example.com/buy-now"
+        }
+      }
+    ]
+  }
+  
